@@ -18,6 +18,8 @@
      - ```createdb newapp_dev```
      - ```createdb newapp_test```
      - ```knex init```
+     - ```touch knex.js```
+     - fill out knex.js
 
    - Make migration/migrations directory
 
